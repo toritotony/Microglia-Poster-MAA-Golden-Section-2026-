@@ -1,4 +1,4 @@
-# Microglia-Poster-MAA-Golden-Section-2026-
+# Microglia Poster for MAA Golden Section and IdeaFest Spring 2026
 A repository that encapsulates our work presented at the MAA Golden Section Spring 2026!
 
 ## ABM code folder
