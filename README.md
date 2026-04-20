@@ -13,5 +13,8 @@ Contains the three data files and parameter json files that contain information 
 ## figures folder
 Contains the figures included on our poster, along with the jupyter notebook which can produce the same grahphs if needed. Keep in mind our original files were renamed after being generated from the python function relating to that figure.
 
+## IdeaFest2026 folder
+Contains all relevant figures, data, and code to reproduce results presented at IdeaFest Spring 2026
+
 ## References file
 Contains all relevant sources leveraged in our research in APA format.
